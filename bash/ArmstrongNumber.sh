@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# https://exercism.org/tracks/bash/exercises/armstrong-numbers
+# https://exercism.org/tracks/bash/exercises/armstrong-numbers  
 or=$1
 len=${#or}
 res=0
